@@ -1,0 +1,39 @@
+body {
+
+    font-family: cursive;
+    font-size: 20px;
+  
+}
+
+img {
+    position: absolute;
+
+}
+
+.box {
+    position: relative;
+    width: 650px;
+    height: 650px;
+    top: 50px;
+    right: 100px;
+    text-align: center;
+    margin: 50px;
+    padding: 40px;
+    color: deeppink;
+}
+
+
+.item {
+    position: absolute;
+}
+
+.box1 {
+    position: relative;
+    font-size: 25px;
+    color: rgb(167, 83, 97);
+    right: 480px;
+    top: 300px;
+    text-align: center;
+
+}
+
